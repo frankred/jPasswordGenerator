@@ -4,7 +4,7 @@ jPasswordGenerator
 Java based password generator with nice and easy to use GUI.
 
 #Donate
-Feel free to support the project if you use jPasswordGenerator =).<br/>
+Feel free to support the project if you use jPasswordGenerator =).<br/><br/>
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDTRJAP2LGDRW)
 
 #Download
