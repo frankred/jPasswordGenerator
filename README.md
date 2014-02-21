@@ -1,7 +1,7 @@
 jPasswordGenerator
 ==================
 
-Java based password generator with nice and easy to use GUI.
+Java based password generator with nice and easy to use GUI written with SWING.
 
 #Donate
 Feel free to support the project if you use jPasswordGenerator =).<br/><br/>
